@@ -11,7 +11,7 @@ A beginner-friendly web app that tests your typing speed and accuracy with rando
 - ✅ Accuracy percentage
 - 🔁 Reset button to restart the test
 - 📝 Dynamic paragraph loading (no repeats)
-- 📱 Fully responsive and mobile-friendly
+- 💻 Exclusively for PC's & Laptops
 Try it live: [GitHub Pages Link](https://typing-arena.netlify.app/)  
 
 ## 🛠️ Tech Stack
