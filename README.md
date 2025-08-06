@@ -12,17 +12,13 @@ A beginner-friendly web app that tests your typing speed and accuracy with rando
 - 🔁 Reset button to restart the test
 - 📝 Dynamic paragraph loading (no repeats)
 - 📱 Fully responsive and mobile-friendly
-
-## 📸 Preview
-
-![Typing Arena Screenshot](screenshot.png)
+Try it live: [GitHub Pages Link](https://typing-arena.netlify.app/)  
 
 ## 🛠️ Tech Stack
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
-## 📂 Folder Structure
 
 
